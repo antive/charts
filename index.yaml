@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  test:
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2020-01-17T21:55:55.11931244Z"
+    description: A Helm chart for Kubernetes
+    digest: 8125c84263aeb3c39eeecfc237cdb0cb06cd799b07058136730da635fd690db5
+    name: test
+    urls:
+    - https://github.com/antive/charts/releases/download/test-0.1.0/test-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-17T21:55:54.957651697Z"
