@@ -1,3 +1,3 @@
-# Antive Charts
+# Antive Charts ☸️
 
 Helm charts for Antive services.
